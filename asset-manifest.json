@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/heons/o-young/static/css/main.88bff1ce.chunk.css",
-    "main.js": "/heons/o-young/static/js/main.42e510f5.chunk.js",
-    "main.js.map": "/heons/o-young/static/js/main.42e510f5.chunk.js.map",
+    "main.css": "/heons/o-young/static/css/main.b219ca29.chunk.css",
+    "main.js": "/heons/o-young/static/js/main.49564f4e.chunk.js",
+    "main.js.map": "/heons/o-young/static/js/main.49564f4e.chunk.js.map",
     "runtime-main.js": "/heons/o-young/static/js/runtime-main.bfba4847.js",
     "runtime-main.js.map": "/heons/o-young/static/js/runtime-main.bfba4847.js.map",
     "static/js/2.763b34e5.chunk.js": "/heons/o-young/static/js/2.763b34e5.chunk.js",
     "static/js/2.763b34e5.chunk.js.map": "/heons/o-young/static/js/2.763b34e5.chunk.js.map",
     "index.html": "/heons/o-young/index.html",
-    "precache-manifest.7b91ca7007ff3736c9e5bc331ae3380d.js": "/heons/o-young/precache-manifest.7b91ca7007ff3736c9e5bc331ae3380d.js",
+    "precache-manifest.4e480a55bff5696c83a17d6fb927fa29.js": "/heons/o-young/precache-manifest.4e480a55bff5696c83a17d6fb927fa29.js",
     "service-worker.js": "/heons/o-young/service-worker.js",
-    "static/css/main.88bff1ce.chunk.css.map": "/heons/o-young/static/css/main.88bff1ce.chunk.css.map",
+    "static/css/main.b219ca29.chunk.css.map": "/heons/o-young/static/css/main.b219ca29.chunk.css.map",
     "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/heons/o-young/static/js/2.763b34e5.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/heons/o-young/static/media/Williwaw-Book.5b66fbf1.otf",
     "static/media/logo.svg": "/heons/o-young/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.bfba4847.js",
     "static/js/2.763b34e5.chunk.js",
-    "static/css/main.88bff1ce.chunk.css",
-    "static/js/main.42e510f5.chunk.js"
+    "static/css/main.b219ca29.chunk.css",
+    "static/js/main.49564f4e.chunk.js"
   ]
 }
