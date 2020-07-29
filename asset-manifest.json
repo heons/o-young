@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/o-young/static/css/main.0f39621f.chunk.css",
+    "main.css": "/o-young/static/css/main.9953ea69.chunk.css",
     "main.js": "/o-young/static/js/main.827edfe1.chunk.js",
     "main.js.map": "/o-young/static/js/main.827edfe1.chunk.js.map",
     "runtime-main.js": "/o-young/static/js/runtime-main.0e0a2948.js",
@@ -8,9 +8,9 @@
     "static/js/2.180d86fb.chunk.js": "/o-young/static/js/2.180d86fb.chunk.js",
     "static/js/2.180d86fb.chunk.js.map": "/o-young/static/js/2.180d86fb.chunk.js.map",
     "index.html": "/o-young/index.html",
-    "precache-manifest.6dab4ddd0bff6b335a49540d07c4d16f.js": "/o-young/precache-manifest.6dab4ddd0bff6b335a49540d07c4d16f.js",
+    "precache-manifest.fca7e14079dd202a7065e26aad5e176d.js": "/o-young/precache-manifest.fca7e14079dd202a7065e26aad5e176d.js",
     "service-worker.js": "/o-young/service-worker.js",
-    "static/css/main.0f39621f.chunk.css.map": "/o-young/static/css/main.0f39621f.chunk.css.map",
+    "static/css/main.9953ea69.chunk.css.map": "/o-young/static/css/main.9953ea69.chunk.css.map",
     "static/js/2.180d86fb.chunk.js.LICENSE.txt": "/o-young/static/js/2.180d86fb.chunk.js.LICENSE.txt",
     "static/media/App.css": "/o-young/static/media/Williwaw-Book.5b66fbf1.otf",
     "static/media/logo.svg": "/o-young/static/media/logo.5d5d9eef.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.0e0a2948.js",
     "static/js/2.180d86fb.chunk.js",
-    "static/css/main.0f39621f.chunk.css",
+    "static/css/main.9953ea69.chunk.css",
     "static/js/main.827edfe1.chunk.js"
   ]
 }
