@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/heons/o-young/static/css/main.88bff1ce.chunk.css",
+    "main.js": "/heons/o-young/static/js/main.494f222e.chunk.js",
+    "main.js.map": "/heons/o-young/static/js/main.494f222e.chunk.js.map",
+    "runtime-main.js": "/heons/o-young/static/js/runtime-main.bfba4847.js",
+    "runtime-main.js.map": "/heons/o-young/static/js/runtime-main.bfba4847.js.map",
+    "static/js/2.180d86fb.chunk.js": "/heons/o-young/static/js/2.180d86fb.chunk.js",
+    "static/js/2.180d86fb.chunk.js.map": "/heons/o-young/static/js/2.180d86fb.chunk.js.map",
+    "index.html": "/heons/o-young/index.html",
+    "precache-manifest.f0dd355f2d34262f5d6641bc1c42235e.js": "/heons/o-young/precache-manifest.f0dd355f2d34262f5d6641bc1c42235e.js",
+    "service-worker.js": "/heons/o-young/service-worker.js",
+    "static/css/main.88bff1ce.chunk.css.map": "/heons/o-young/static/css/main.88bff1ce.chunk.css.map",
+    "static/js/2.180d86fb.chunk.js.LICENSE.txt": "/heons/o-young/static/js/2.180d86fb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/heons/o-young/static/media/Williwaw-Book.5b66fbf1.otf",
+    "static/media/logo.svg": "/heons/o-young/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfba4847.js",
+    "static/js/2.180d86fb.chunk.js",
+    "static/css/main.88bff1ce.chunk.css",
+    "static/js/main.494f222e.chunk.js"
+  ]
+}
