@@ -13,15 +13,27 @@
   }
 }
 
+@font-face {
+  font-family: 'Vogue';
+  src: local('Vogue'), url(./fonts/Vogue.ttf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Williwaw-Book';
+  src: local('Williwaw-Book'), url(./fonts/Williwaw-Book.otf) format('opentype');
+}
+
 .App-header {
-  background-color: #282c34;
+  background-color: white;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  /* font-size: calc(10px + 2vmin); */
+  font-size: 24px;
+  font-family: 'Vogue';
+  color: black;
 }
 
 .App-link {
@@ -35,4 +47,20 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+input {
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: hidden;
+  background-color:transparent;
+  font-size: 24px;
+  /* font-family: 'Vogue'; */
+  font-family: 'Williwaw-Book';
+}
+
+.no-outline:focus {
+  outline: none;
 }
