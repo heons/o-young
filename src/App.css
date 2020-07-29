@@ -31,7 +31,7 @@
   align-items: center;
   justify-content: center;
   /* font-size: calc(10px + 2vmin); */
-  font-size: 24px;
+  font-size: 30px;
   font-family: 'Vogue';
   color: black;
 }
@@ -56,8 +56,10 @@ input {
   border-left-style: hidden;
   border-bottom-style: hidden;
   background-color:transparent;
-  font-size: 24px;
+  font-size: 30px;
   font-family: 'Vogue';
+  text-align: center;
+  /* width: "400px"; */
   /* font-family: 'Williwaw-Book'; */
 }
 

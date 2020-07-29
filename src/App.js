@@ -9,9 +9,10 @@ function App() {
         {/* <img src={logo} className="App-logo" alt="logo" />
         <p>Welcome to the game</p> */}
         <input type="text" name="name" 
-          value={'Welcome to the game'}
+          value={'WELCOME TO THE GAME'}
           autoFocus
           class="no-outline"
+          style={{ width: "400px" }}
         />
       </header>
     </div>
